@@ -10,5 +10,5 @@
 | **Special Keywords**          | `self`, `super`, `return`, `yield`, `END`, `BEGIN`     | 6                      | Special keywords for accessing the current object, invoking a method from the superclass, returning a value, yielding to a block, and specifying code to run at the beginning or end of a program. |
 | **Special Literals**          | `__ENCODING__`, `__LINE__`, `__FILE__`                 | 3                      | Provides information about the encoding, line number, and file name in which they appear.                       |
 | **Block Delimiters**          | `end`, `do`                                            | 2                      | Used to define the beginning and end of blocks and methods.                                                     |
-| **Total**                     |                                                        | **43**                 | **Total number of keywords in Ruby.**                                                                           |
+| **Total**                     |                                                        | **43**                 | **Total number of keywords in Ruby 3.2**                                                                           |
 
